@@ -2,7 +2,7 @@
   "name": "WebSite",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://IvanovArtemNA.github.io/WebSite",
+  "homepage": "https://IvanovArtemNA.github.io/WebSite/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /WebSite/"
